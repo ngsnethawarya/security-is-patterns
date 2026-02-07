@@ -2,8 +2,6 @@
 
 Observing patterns instead of single events.
 
----
-
 Single events rarely explain much.
 Patterns explain everything.
 
